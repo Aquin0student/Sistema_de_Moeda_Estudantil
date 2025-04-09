@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_de_Moeda_Estudantil", "Sistema_de_Moeda_Estudantil.csproj", "{121C28CC-5A88-499F-99A1-674D7295D27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121C28CC-5A88-499F-99A1-674D7295D27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121C28CC-5A88-499F-99A1-674D7295D27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121C28CC-5A88-499F-99A1-674D7295D27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121C28CC-5A88-499F-99A1-674D7295D27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
