@@ -1,7 +1,5 @@
 # 🎓 Sistema de Moeda Estudantil - PUC Minas
 
-![Banner](https://via.placeholder.com/800x200.png?text=Sistema+de+Moeda+Estudantil+PUC+Minas)
-
 **Um sistema inovador para reconhecimento acadêmico através de moedas virtuais**
 
 ## ✨ Visão Geral
